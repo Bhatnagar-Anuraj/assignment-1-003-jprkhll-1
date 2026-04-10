@@ -143,7 +143,7 @@ cmds.move(park_x, park_height/2.0, park_z, park)
 # ---------------------------------------------------------------------------
 # DONE: Add Object 5
 # ---------------------------------------------------------------------------
-#Cylindrical guard tower at the center of park
+# Cylindrical guard tower at the center of park
 
 tower_width = 1
 tower_height = 1.5
